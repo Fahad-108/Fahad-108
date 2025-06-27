@@ -55,7 +55,6 @@
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [Portfolio Website](https://Fahad-108.github.io/portfolio-website/)  
 - 📧 [Email – fahiiraza8@gmail.com](mailto:fahiiraza8@gmail.com)  
 
 ---
