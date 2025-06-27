@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0202ff&center=true&width=500&lines=BSCS+Student+%26+Full+Stack+Developer;Loves+JavaScript+and+React;Building+cool+projects+everyday!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0202ff&center=true&width=500&lines=BSIT+Student+%26+Full+Stack+Developer;Loves+JavaScript+and+React;Building+cool+projects+everyday!"/>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building *OneNest* – a creative multi-tool web app with games, utilities & AI assistant  
+- 🔭 Currently building *MINIXPRESS* – a creative multi-tool web app with games, utilities & AI assistant  
 - 🌱 Learning the *MERN Stack* (MongoDB, Express, React, Node.js)  
 - 👯 Open to collaborate on *JavaScript projects, web games, or React apps*  
 - 💬 Ask me about *JavaScript, React, Tailwind, MongoDB, Express, Node.js*  
@@ -48,16 +48,14 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haroon-90&show_icons=true&theme=tokyonight&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroon-90&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahad-108&show_icons=true&theme=tokyonight&hide=prs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-108&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [Portfolio Website](https://haroon-90.github.io/portfolio-website/)  
-- 💼 [LinkedIn – Muhammad Haroon Nawaz](https://www.linkedin.com/in/muhammad-haroon-nawaz-206343362/)  
-- 📸 [Instagram – @haroon_nawaz_](https://www.instagram.com/haroon_nawaz_/)
+- 🌐 [Portfolio Website](https://Fahad-108.github.io/portfolio-website/)  
 - 📧 [Email – fahiiraza8@gmail.com](mailto:fahiiraza8@gmail.com)  
 
 ---
