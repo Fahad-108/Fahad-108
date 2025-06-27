@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building *MINIXPRESS* – a creative multi-tool web app with games, utilities & AI assistant  
+- 🔭 Currently building *MiniXpress* – a creative multi-tool web app with games, utilities & AI assistant  
 - 🌱 Learning the *MERN Stack* (MongoDB, Express, React, Node.js)  
 - 👯 Open to collaborate on *JavaScript projects, web games, or React apps*  
 - 💬 Ask me about *JavaScript, React, Tailwind, MongoDB, Express, Node.js*  
@@ -41,8 +41,7 @@
 ### 🌟 Featured Projects
 - 🤖 [PassBin App](https://haroon-90.github.io/Passbin_local/) – Password manager
 - 🤖 [QuickQuiz App](https://haroon-90.github.io/QuickQuiz/) – Instant Quiz generator with integration of AI API
-- 🧩 [OneNest App](https://haroon-90.github.io/OneNest/) – Multi-feature app with games, tools, and AI integration  
-- 💼 [Portfolio Website](https://haroon-90.github.io/portfolio-website/) – My personal responsive web portfolio  
+- 🧩 [OneNest App](https://fahad-108.github.io/MINIEXPRESS/) – Multi-feature app with games, tools, and AI integration  
 
 ---
 
