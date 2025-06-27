@@ -39,9 +39,7 @@
 ---
 
 ### 🌟 Featured Projects
-- 🤖 [PassBin App](https://haroon-90.github.io/Passbin_local/) – Password manager
-- 🤖 [QuickQuiz App](https://haroon-90.github.io/QuickQuiz/) – Instant Quiz generator with integration of AI API
-- 🧩 [OneNest App](https://fahad-108.github.io/MINIEXPRESS/) – Multi-feature app with games, tools, and AI integration  
+- 🧩 [MiniXpress](https://fahad-108.github.io/MINIEXPRESS/) – Multi-feature app with games, tools, and AI integration  
 
 ---
 
