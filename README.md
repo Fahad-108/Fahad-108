@@ -52,7 +52,8 @@
 ---
 
 ### 📫 Let's Connect!
-- 📧 [Email – fahiiraza8@gmail.com](mailto:fahiiraza8@gmail.com)  
+- 📧 [Email – fahiiraza8@gmail.com](mailto:fahiiraza8@gmail.com)
+- 💼 [LinkedIn - Fahad Raza](https://www.linkedin.com/in/fahad-raza-779524372/)  
 
 ---
 
