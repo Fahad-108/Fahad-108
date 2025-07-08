@@ -39,7 +39,8 @@
 ---
 
 ### 🌟 Featured Projects
-- 🧩 [MiniXpress](https://fahad-108.github.io/MINIEXPRESS/) – Multi-feature app with games, tools, and AI integration  
+- 🧩 [MiniXpress](https://fahad-108.github.io/MINIEXPRESS/) – Multi-feature app with games, tools, and AI integration
+- 💼[Portfolio Website](https://fahad-108.github.io/Portfolio-Website/) – My personal web portfolio  
 
 ---
 
